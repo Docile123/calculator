@@ -1,0 +1,16 @@
+body{
+    background-color: aqua;
+}
+
+p{
+    color: azure;
+}
+
+button{
+    background-color: black;
+    padding: 10px;
+    outline: none;
+    color: aliceblue;
+    border-radius: 0;
+    border: none;
+}
